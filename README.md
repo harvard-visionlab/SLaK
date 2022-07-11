@@ -1,3 +1,5 @@
+# Fork of [VITA-Group/SLaK](https://github.com/VITA-Group/SLaK)
+
 #  [More ConvNets in the 2020s: Scaling up Kernels Beyond 51 × 51 using Sparsity](https://arxiv.org/abs/2207.03620)
 
 Official PyTorch implementation of **SLaK**, from the following paper: 
